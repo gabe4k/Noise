@@ -1,3 +1,4 @@
 Feature A started
 Feature is completed
 
+Bug found in Feature A
